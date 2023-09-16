@@ -1,6 +1,7 @@
-Hello! welcome to the very first version of Gore Encore!
+Hello! Welcome to the alpha version of Gore Encore!
 
-version 0.0.1 patch notes here:
+Major Update
+version 0.0.7 patch notes here:
 added this text.
 added Trenches map.
 added baked lighting to Forest.
@@ -9,3 +10,5 @@ added gun system.
 fixed health.
 fixed game crashes.
 fixed a ton of optimisations.
+
+credits: yykvr, laympuppeh
