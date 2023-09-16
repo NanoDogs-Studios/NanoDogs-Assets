@@ -1,0 +1,11 @@
+Hello! welcome to the very first version of Gore Encore!
+
+version 0.0.1 patch notes here:
+added this text.
+added Trenches map.
+added baked lighting to Forest.
+added spawn gun.
+added gun system.
+fixed health.
+fixed game crashes.
+fixed a ton of optimisations.
