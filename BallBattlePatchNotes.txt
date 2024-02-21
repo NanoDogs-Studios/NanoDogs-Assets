@@ -7,4 +7,5 @@ updated to dx12
 fixed player profiles
 added admins
 prepared for v0.2.0 major update
+upgraded to IL2CPP for protection
 other stuff
