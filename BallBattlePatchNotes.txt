@@ -1,10 +1,10 @@
-Whats new in v0.1.2?
+Whats new in v0.1.9?
 
-Changed Main Menu
-Fixed Shop UI
-Added More Items in the shop:
-Pjamas, Golden Fedora, Hair, and more!
-Fixed isDeveloper
-Added Permanent UserHandle. DisplayName when set
-Gave the red and blue balls on the main menu some drip!
-And other changes like Persistent Epic Authentication with no Login Page!
+hopefully fixed player colors
+added playerprefs tool
+added some in-game ui
+updated to dx12
+fixed player profiles
+added admins
+prepared for v0.2.0 major update
+other stuff
