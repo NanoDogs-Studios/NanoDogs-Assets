@@ -1,11 +1,21 @@
-Whats new in v0.1.9?
-
-hopefully fixed player colors
-added playerprefs tool
-added some in-game ui
-updated to dx12
-fixed player profiles
-added admins
-prepared for v0.2.0 major update
-upgraded to IL2CPP for protection
-other stuff
+Whats new in v0.2.0?
+(MAJOR UPDATE)
+Added Space Map
+Added Soundtrack with 3 songs!
+Added Android/iOS Support!
+Added Local Mode!
+Added Most Weapons To Local!
+Added Scaling for Lower Resolutions!
+Added Player Rotating using Mouse!
+Added Gamepad Support!
+Added UI Navigation!
+Added Lens Dirt!
+Added Volume Slider to Settings!
+Added Tier/Leveling System!
+Updated Input System!
+Updated Main Menu UI!
+Updated Playfab!
+Updated to DirectX12!
+Adjusted Bloom!
+Adjusted Profile Layout!
+Fixed Profiles!
